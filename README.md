@@ -1,1 +1,1 @@
-Hello! The zip files I used were too big to even submit them on here despite that being part of the requirement... Therefore, when I submit my work I will just put my zip folders there! Thank you.
+Hello, this was my third assignment for my Introduction to Machine Learning Course! Here, we created a CNN(Convolutional Neural Network) for changing the pixels of an image to be enlarged. I did one version with an RGB Autoencoder and I did one with a Grayscale Autoencoder to see which model performs better. 
